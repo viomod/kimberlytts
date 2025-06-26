@@ -2,7 +2,6 @@ import os
 import tkinter as tk
 from tkinter import messagebox, ttk
 import requests
-import tempfile
 import sounddevice as sd
 import numpy as np
 from pydub import AudioSegment

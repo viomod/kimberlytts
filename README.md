@@ -9,3 +9,5 @@ Simply download the source code and run this to compile it to an EXE.
 ```bash
   pyinstaller --onefile --noconsole --icon=mic.ico app.py 
 ```
+
+For debug purposes feel free to remove --noconsole.
